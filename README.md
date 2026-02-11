@@ -1,5 +1,11 @@
-# m365-learning-lab_Ahad
-learning M365 Services
+# Ahmad's Microsoft 365 Learning Lab
 
-- Ziel: Üben von Microsoft 365, SharePoint, Purview, Intune
-- Themen: Governance, Compliance, Automation, Graph API
+Ziel: Aufbau einer Test- und Lernumgebung für Microsoft 365, mit Fokus auf:
+- SharePoint Online Architektur und Berechtigungen
+- Microsoft Purview (DLP, Sensitivity Labels, Retention)
+- Intune Gerätemanagement
+- Microsoft Graph API
+- Governance & Compliance im Modern Workplace
+
+Dieses Repository dokumentiert alle Schritte, Skripte und Szenarien.
+
