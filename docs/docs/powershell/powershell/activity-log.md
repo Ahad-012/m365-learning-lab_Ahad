@@ -13,3 +13,7 @@
 - test-users-plan.md erstellt
 - create-test-users-example.ps1 hinzugefügt
 - sharepoint-site-design.md erstellt
+## 15.02.2026
+- purview-sensitivity-labels.md erstellt
+- dlp-policy-design.md erstellt
+- m365-groups-plan.ps1 hinzugefügt
