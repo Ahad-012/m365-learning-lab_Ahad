@@ -21,3 +21,7 @@
 - teams-governance.md erstellt
 - intune-app-protection.md erstellt
 - sharepoint-site-creation-plan.ps1 hinzugefügt
+## 17.02.2026
+- conditional-access-basics.md erstellt
+- entra-id-roles-overview.md erstellt
+- m365-group-lifecycle-plan.ps1 hinzugefügt
