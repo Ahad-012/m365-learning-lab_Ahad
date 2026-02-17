@@ -25,3 +25,7 @@
 - conditional-access-basics.md erstellt
 - entra-id-roles-overview.md erstellt
 - m365-group-lifecycle-plan.ps1 hinzugefügt
+## 18.02.2026
+- zero-trust-basics.md erstellt
+- m365-secure-score-overview.md erstellt
+- compliance-policy-basics.md erstellt
