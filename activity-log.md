@@ -29,3 +29,7 @@
 - zero-trust-basics.md erstellt
 - m365-secure-score-overview.md erstellt
 - compliance-policy-basics.md erstellt
+## 19.02.2026
+- microsoft-graph-basics.md erstellt
+- sharepoint-site-architecture.md erstellt
+- defender-cloud-apps-overview.md erstellt
