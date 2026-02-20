@@ -33,3 +33,7 @@
 - microsoft-graph-basics.md erstellt
 - sharepoint-site-architecture.md erstellt
 - defender-cloud-apps-overview.md erstellt
+## 20.02.2026
+- sensitivity-label-basics.md erstellt
+- dlp-policy-overview.md erstellt
+- teams-governance-basics.md erstellt
