@@ -37,3 +37,7 @@
 - sensitivity-label-basics.md erstellt
 - dlp-policy-overview.md erstellt
 - teams-governance-basics.md erstellt
+## 21.02.2026 
+conditional-access-overview.ps1 erstellt
+- conditional-access-basics.md erstellt
+- entra-id-automation-overview.md erstellt
